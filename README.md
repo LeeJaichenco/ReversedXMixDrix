@@ -4,9 +4,16 @@
 
 Welcome to the ReversedXMixDrix game, a unique take on the classic Tic Tac Toe! In this intriguing twist, the goal is not to win by creating a sequence of 5 symbols but to cleverly maneuver your opponent into forming that sequence.
 
+## Watch a Game Simulation
+
+To get a better grasp of the game's dynamics, watch our video simulation:
+
+https://clipchamp.com/watch/046Q3wOrDDt
+
 ## Key Features
 
 - **Reverse Tic Tac Toe Gameplay**: Flip the rules and make your opponent chase the sequence.
+- **Player Options**: Play with a friend or challenge our AI.
 - **User-Friendly**: Easy to install and get started.
 
 ## Technologies Used
@@ -32,9 +39,3 @@ Welcome to the ReversedXMixDrix game, a unique take on the classic Tic Tac Toe! 
 - Launch the game and choose your mode (Two-Player or Human vs. Computer).
 - Follow the in-game instructions for your moves.
 - The aim is to trick your opponent into forming a sequence of 5 symbols (X or O) in a row, column, or diagonal while avoiding creating one yourself.
-
-## Watch a Game Simulation
-
-To get a better grasp of the game's dynamics, watch our video simulation:
-
-https://clipchamp.com/watch/046Q3wOrDDt
