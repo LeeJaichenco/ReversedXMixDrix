@@ -8,6 +8,8 @@ Welcome to the ReversedXMixDrix game, a unique take on the classic Tic Tac Toe! 
 
 To get a better grasp of the game's dynamics, watch our video simulation:
 
+[Watch the Game Simulation Video](ReversedXMixDrix.mp4)
+
 https://clipchamp.com/watch/046Q3wOrDDt
 
 ## Key Features
